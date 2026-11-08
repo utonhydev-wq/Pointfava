@@ -1,0 +1,6 @@
+{
+  "name": "Point da Fava — Bar & Restaurante em Jaboatão",
+  "description": "Bar & Restaurante tradicional em Jaboatão dos Guararapes desde 2011. Fale conosco pelo WhatsApp, confira nossa localização na Rua Santa Mônica, 360 e acompanhe nosso Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
